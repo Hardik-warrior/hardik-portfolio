@@ -128,6 +128,20 @@ export default function Home() {
           >
             LinkedIn
           </a>
+          <a
+            href="/resume.pdf"
+            download
+            className="rounded-lg border border-slate-600 px-6 py-3 font-semibold hover:border-cyan-400 hover:text-cyan-400"
+          >
+            Download CV
+          </a>
+          <a
+            href="https://github.com/Hardik-warrior"
+            target="_blank"
+            className="rounded-lg border border-slate-600 px-6 py-3 font-semibold hover:border-cyan-400 hover:text-cyan-400"
+          >
+            GitHub
+          </a>
         </div>
       </section>
 
